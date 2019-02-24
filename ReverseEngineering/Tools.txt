@@ -1,0 +1,8 @@
+Tools that were used are:
+
+X64 Debugger
+IDA 
+CFF Explorer
+Resources
+Hex Editor
+
